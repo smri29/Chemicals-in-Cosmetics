@@ -1,0 +1,23 @@
+{
+  "reprotox_files_count": 18,
+  "sample_files": [
+    "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/schema.json",
+    "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/docker-compose.yml",
+    "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/.env.example",
+    "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/Reprotox.png",
+    "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/.gitignore",
+    "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/README.md",
+    "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/markdown/download.md",
+    "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/notebooks/venn.ipynb",
+    "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/notebooks/Drugs_tofaers.ipynb",
+    "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/notebooks/requirements.txt",
+    "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/notebooks/Serialization.ipynb",
+    "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/notebooks/DMT/drug_resources.tsv",
+    "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/notebooks/DMT/drug_central.ipynb",
+    "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/notebooks/DMT/faers.ipynb",
+    "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/notebooks/DMT/combined.ipynb",
+    "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/scripts/requirements.txt",
+    "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/scripts/ingestion.txt",
+    "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/scripts/populate.py"
+  ]
+}

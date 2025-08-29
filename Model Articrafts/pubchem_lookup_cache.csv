@@ -1,0 +1,225 @@
+query_key,cid,smiles,name,source
+cas:100-42-5,,C=Cc1ccccc1,,cir_cas
+cas:100-44-7,,ClCc1ccccc1,,cir_cas
+cas:101-54-2,,Nc1ccc(Nc2ccccc2)cc1,,cir_cas
+cas:102-71-6,,OCCN(CCO)CCO,,cir_cas
+cas:106-50-3,,Nc1ccc(N)cc1,,cir_cas
+cas:107-21-1,,OCCO,,cir_cas
+cas:108-05-4,,CC(=O)OC=C,,cir_cas
+cas:108-88-3,,Cc1ccccc1,,cir_cas
+cas:111-42-2,,OCCNCCO,,cir_cas
+cas:11103-57-4,,CC(=C\CO)/C=C/C=C(C)/C=C/C1=C(C)CCCC1(C)C,,cir_cas
+cas:11103-57-5,,,,error:'PUGREST.BadRequest'
+cas:1116-54-7,,OCCN(CCO)N=O,,cir_cas
+cas:119-61-9,,O=C(c1ccccc1)c2ccccc2,,cir_cas
+cas:120-40-1,,CCCCCCCCCCCC(=O)N(CCO)CCO,,cir_cas
+cas:12001-26-2,,,,not_found
+cas:123-35-3,,CC(C)=CCCC(=C)C=C,,cir_cas
+cas:123-91-1,,C1COCCO1,,cir_cas
+cas:127-47-9,,CC(=O)OC/C=C(C)/C=C/C=C(C)/C=C/C1=C(C)CCCC1(C)C,,cir_cas
+cas:131-55-5,,Oc1ccc(c(O)c1)C(=O)c2ccc(O)cc2O,,cir_cas
+cas:131-57-7,,COc1ccc(c(O)c1)C(=O)c2ccccc2,,cir_cas
+cas:1317-70-0,,O=[Ti]=O,,cir_cas
+cas:1317-80-2,,O=[Ti]=O,,cir_cas
+cas:1333-86-4,,,,not_found
+cas:13463-67-7,,O=[Ti]=O,,cir_cas
+cas:139-96-8,,CCCCCCCCCCCCO[S](O)(=O)=O.OCCN(CCO)CCO,,cir_cas
+cas:140-67-0,,COc1ccc(CC=C)cc1,,cir_cas
+cas:140-88-5,,CCOC(=O)C=C,,cir_cas
+cas:14807-96-6,,[Mg++].[Mg++].[Mg++].O[Si]([O-])=O.O[Si]([O-])=O.[O-][Si]([O-])=O.[O-][Si]([O-])=O,,cir_cas
+cas:14808-60-7,,O=[Si]=O,,cir_cas
+cas:25013-16-5,,COc1ccc(O)c(c1)C(C)(C)C,,cir_cas
+cas:2646-17-5,,Cc1ccccc1N\N=C2/C(=O)C=Cc3ccccc23,,cir_cas
+cas:301-04-2,,[Pb++].CC([O-])=O.CC([O-])=O,,cir_cas
+cas:302-79-4,,CC1=C(\C=C\C(C)=C\C=C\C(C)=C\C(O)=O)C(C)(C)CCC1,,cir_cas
+cas:30525-89-4,,C=O,,cir_cas
+cas:3296-90-0,,OCC(CO)(CBr)CBr,,cir_cas
+cas:331-39-5,,OC(=O)\C=C/c1ccc(O)c(O)c1,,cir_cas
+cas:4065-45-6,,[Na+].COc1cc(O)c(cc1[S]([O-])(=O)=O)C(=O)c2ccccc2,,cir_cas
+cas:446-72-0,,Oc1ccc(cc1)C2=COc3cc(O)cc(O)c3C2=O,,cir_cas
+cas:463-57-0,,OCO,,cir_cas
+cas:50-00-0,,C=O,,cir_cas
+cas:50-32-8,,c1ccc2c(c1)cc3ccc4cccc5ccc2c3c45,,cir_cas
+cas:50-78-2,,CC(=O)Oc1ccccc1C(O)=O,,cir_cas
+cas:52-01-7,,CC(=O)S[C@@H]1CC2=CC(=O)CC[C@]2(C)[C@H]3CC[C@@]4(C)[C@@H](CC[C@@]45CCC(=O)O5)[C@H]13,,cir_cas
+"name:1,4-dioxane",,C1COCCO1,,cir_name
+"name:2,2-bis(bromomethyl)-1,3-propanediol",,OCC(CO)(CBr)CBr,,cir_name
+"name:2,4-hexadienal",,CC=CC=CC=O,,cir_name
+name:2-propyleneacrolein,,C/C=C/C=C/C=O,,cir_name
+"name:acetic acid, retinyl ester",,CC(=O)OC/C=C(C)/C=C/C=C(C)/C=C/C1=C(C)CCCC1(C)C,,cir_name
+name:acetylsalicylic acid,,CC(=O)Oc1ccccc1C(O)=O,,cir_name
+name:all-trans retinoic acid,,,,not_found
+"name:aloe vera, non-decolorized whole leaf extract",,,,not_found
+"name:aloe vera, whole leaf extract",,,,not_found
+name:arsenic (inorganic arsenic compounds),,,,not_found
+name:arsenic (inorganic oxides),,,,not_found
+name:avobenzone,,COc1ccc(cc1)C(=O)CC(=O)c2ccc(cc2)C(C)(C)C,,cir_name
+name:benz[a]anthracene,,c1ccc2cc3c(ccc4ccccc34)cc2c1,,cir_name
+name:benzene,,c1ccccc1,,cir_name
+name:benzo[a]pyrene,,c1ccc2c(c1)cc3ccc4cccc5ccc2c3c45,,cir_name
+name:benzophenone-2,,Oc1ccc(c(O)c1)C(=O)c2ccc(O)cc2O,,cir_name
+name:benzophenone-3,,COc1ccc(c(O)c1)C(=O)c2ccccc2,,cir_name
+name:benzophenone-4,,COc1cc(O)c(cc1[S](O)(=O)=O)C(=O)c2ccccc2,,cir_name
+name:benzyl chloride,,ClCc1ccccc1,,cir_name
+name:beta-myrcene,,CC(C)=CCCC(=C)C=C,,cir_name
+name:bisphenol a (bpa),,,,not_found
+name:cadmium and cadmium compounds,,,,not_found
+name:caffeic acid,,OC(=O)\C=C/c1ccc(O)c(O)c1,,cir_name
+name:carbon black,,,,not_found
+"name:carbon black (airborne, unbound particles of respirable size)",,,,not_found
+name:carbon-black extracts,,,,not_found
+name:chromium (hexavalent compounds),,[Cr+6],,cir_name
+name:coal tar,,,,not_found
+name:coal tar extract,,,,not_found
+name:coal tar solution,,,,not_found
+name:coal tars,,,,not_found
+name:cocamide,,,,not_found
+name:cocamide dea,,,,not_found
+name:cocamide diethanolamine,,,,not_found
+name:cocamide diethanolamine (dea),,,,not_found
+name:cocamide mea,,,,not_found
+name:coffea arabica extract,,,,not_found
+name:coffee,,,,not_found
+name:coffee bean extract,,,,not_found
+name:coffee extract,,,,not_found
+name:cosmetic talc,,,,not_found
+name:di-n-butyl phthalate (dbp),,,,not_found
+name:dichloromethane (methylene chloride),,,,not_found
+name:diethanolamides of the fatty acids of coconut oil,,,,not_found
+name:distillates (coal tar),,,,not_found
+name:ethanol in alcoholic beverages,,,,not_found
+name:ethylene oxide,,,,not_found
+name:extract of coffee bean,,,,not_found
+name:formaldehyde,,,,not_found
+name:formaldehyde (gas),,,,not_found
+cas:52645-53-1,,CC1(C)[C@@H](C=C(Cl)Cl)[C@H]1C(=O)OCc2cccc(Oc3ccccc3)c2,,cir_cas
+cas:53973-98-1,,,,not_found
+cas:56-55-3,,c1ccc2cc3c(ccc4ccccc34)cc2c1,,cir_cas
+cas:57-83-0,,CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,,cir_cas
+cas:57018-52-7,,CC(O)COC(C)(C)C,,cir_cas
+cas:58-08-2,,Cn1cnc2N(C)C(=O)N(C)C(=O)c12,,cir_cas
+cas:61789-19-3,,,,not_found
+cas:61791-31-9,,,,not_found
+cas:62-44-2,,CCOc1ccc(NC(C)=O)cc1,,cir_cas
+cas:62-75-9,,CN(C)N=O,,cir_cas
+cas:63-98-9,,NC(=O)NC(=O)Cc1ccccc1,,cir_cas
+cas:64-17-5,,CCO,,cir_cas
+cas:6459-94-5,,[Na+].[Na+].Cc1ccc(cc1)[S](=O)(=O)Oc2ccc(cc2)N=Nc3ccc(cc3C)c4ccc(N\N=C5\C(=O)C=Cc6cc(cc(c56)[S]([O-])(=O)=O)[S]([O-])(=O)=O)c(C)c4,,cir_cas
+cas:65996-92-1,,,,not_found
+cas:661791-31-9,,,,error:'PUGREST.BadRequest'
+cas:67-56-1,,CO,,cir_cas
+cas:68-26-8,,CC(=C\CO)/C=C/C=C(C)/C=C/C1=C(C)CCCC1(C)C,,cir_cas
+cas:68140-00-1,,,,not_found
+cas:68155-06-6,,CCCCCCCCCCC(=O)N(CCO)CCO,,cir_cas
+cas:68603-42-9,,,,not_found
+cas:70356-09-1,,COc1ccc(cc1)C(=O)CC(=O)c2ccc(cc2)C(C)(C)C,,cir_cas
+cas:71-43-2,,c1ccccc1,,cir_cas
+cas:74-87-3,,CCl,,cir_cas
+cas:7439-92-1,,[Pb],,cir_cas
+cas:7439-97-6,,[Hg],,cir_cas
+cas:7440-02-0,,[Ni],,cir_cas
+cas:7440-43-1,,,,error:'PUGREST.BadRequest'
+cas:7446-34-6,,S=[Se],,cir_cas
+cas:7488-56-4,,S=[Se]=S,,cir_cas
+cas:75-07-0,,CC=O,,cir_cas
+cas:75-09-2,,ClCCl,,cir_cas
+cas:75-21-8,,C1CO1,,cir_cas
+cas:75-56-9,,CC1CO1,,cir_cas
+cas:76-03-9,,OC(=O)C(Cl)(Cl)Cl,,cir_cas
+cas:7789-38-0,,[Na+].[O-][Br](=O)=O,,cir_cas
+cas:79-06-1,,NC(=O)C=C,,cir_cas
+cas:79-43-6,,OC(=O)C(Cl)Cl,,cir_cas
+cas:79-81-2,,CCCCCCCCCCCCCCCC(=O)OC/C=C(C)/C=C/C=C(C)/C=C/C1=C(C)CCCC1(C)C,,cir_cas
+cas:79-82-1,,,,error:'PUGREST.BadRequest'
+cas:79-91-2,,,,error:'PUGREST.BadRequest'
+cas:80-05-7,,CC(C)(c1ccc(O)cc1)c2ccc(O)cc2,,cir_cas
+cas:8002-45-2,,,,error:'PUGREST.BadRequest'
+cas:8007-45-2,,,,not_found
+cas:8020-83-5,,,,not_found
+cas:81-15-2,,Cc1c(c(C)c(c(c1[N+]([O-])=O)C(C)(C)C)[N+]([O-])=O)[N+]([O-])=O,,cir_cas
+cas:82115-62-6,,,,not_found
+cas:84-74-2,,CCCCOC(=O)c1ccccc1C(=O)OCCCC,,cir_cas
+cas:84650-00-0,,,,not_found
+cas:872-50-4,,CN1CCCC1=O,,cir_cas
+cas:89-82-7,,C[C@@H]1CCC(=C(C)C)C(=O)C1,,cir_cas
+cas:90-43-7,,Oc1ccccc1c2ccccc2,,cir_cas
+cas:90045-36-6,,,,not_found
+cas:91-22-5,,c1ccc2ncccc2c1,,cir_cas
+cas:93-15-2,,COc1ccc(CC=C)cc1OC,,cir_cas
+cas:94-59-7,,C=CCc1ccc2OCOc2c1,,cir_cas
+cas:95-54-5,,Nc1ccccc1N,,cir_cas
+cas:98084-96-9,,O=[Ti]=O,,cir_cas
+cas:99-97-8,,CN(C)c1ccc(C)cc1,,cir_cas
+name:acetaldehyde,,CC=O,,cir_name
+name:acrylamide,,NC(=O)C=C,,cir_name
+name:aspirin,,CC(=O)Oc1ccccc1C(O)=O,,cir_name
+name:benzophenone,,O=C(c1ccccc1)c2ccccc2,,cir_name
+name:butylated hydroxyanisole,,COc1ccc(O)c(c1)C(C)(C)C.COc2ccc(O)cc2C(C)(C)C,,cir_name
+name:c.i. acid red 114,,[Na+].[Na+].Cc1ccc(cc1)[S](=O)(=O)Oc2ccc(cc2)N=Nc3ccc(cc3C)c4ccc(N\N=C5\C(=O)C=Cc6cc(cc(c56)[S]([O-])(=O)=O)[S]([O-])(=O)=O)c(C)c4,,cir_name
+name:caffeine,,Cn1cnc2N(C)C(=O)N(C)C(=O)c12,,cir_name
+name:dichloroacetic acid,,,,not_found
+name:diethanolamine,,,,not_found
+name:estragole,,,,not_found
+name:ethyl acrylate,,,,not_found
+name:ethylene glycol,,,,not_found
+name:formaldehyde solution,,,,not_found
+name:genistein (purified),,,,not_found
+name:ginkgo biloba extract,,,,not_found
+name:goldenseal root powder,,,,not_found
+name:hydrous magnesium silicate,,,,not_found
+name:isopropyl alcohol manufacture using strong acids,,,,not_found
+name:lauramide dea,,,,not_found
+name:lauramide diethanolamine,,,,not_found
+name:lead,,,,not_found
+name:lead acetate,,,,not_found
+name:mercury and mercury compounds,,,,not_found
+name:methanol,,,,not_found
+name:methyl chloride,,,,not_found
+name:methylene glycol,,,,not_found
+name:methyleugenol,,,,not_found
+name:mica,,,,not_found
+"name:mineral oils, untreated and mildly treated",,,,not_found
+name:musk xylene,,,,not_found
+"name:n,n-dimethyl-p-toluidine",,,,not_found
+name:n-methylpyrrolidone,,,,not_found
+name:n-nitrosodiethanolamine,,,,not_found
+name:n-nitrosodimethylamine,,,,not_found
+name:nickel (metallic),,,,not_found
+name:o-phenylenediamine and its salts,,,,not_found
+name:o-phenylphenol,,,,not_found
+name:oil orange ss,,,,not_found
+name:p-aminodiphenylamine,,,,not_found
+name:permethrin,,,,not_found
+name:phenacemide,,,,not_found
+name:phenacetin,,,,not_found
+name:polygeenan,,,,not_found
+name:progesterone,,,,not_found
+name:propylene glycol mono-t-butyl ether,,,,not_found
+name:propylene oxide,,,,not_found
+name:pulegone,,,,not_found
+name:quartz,,,,not_found
+name:quinoline and its strong acid salts,,,,not_found
+name:retinol,,,,not_found
+name:retinol palmitate,,,,not_found
+"name:retinol,retinyl esters, when in daily dosages in excess of 10,000 iu, or 3,000 retinol equivalents",,,,not_found
+name:retinyl acetate,,,,not_found
+name:retinyl palmitate,,,,not_found
+name:safrole,,,,not_found
+name:selenium sulfide,,,,not_found
+"name:silica, crystalline (airborne particles of respirable size)",,,,not_found
+name:sodium bromate,,,,not_found
+name:spironolactone,,,,not_found
+name:styrene,,,,not_found
+name:talc,,,,not_found
+name:talc (powder),,,,not_found
+name:talc containing asbestiform fibers,,,,not_found
+name:tea-lauryl sulfate,,,,not_found
+name:titanium dioxide,,,,not_found
+"name:titanium dioxide (airborne, unbound particles of respirable size)",,,,not_found
+name:toluene,,,,not_found
+name:trade secret,,,,not_found
+name:trichloroacetic acid,,,,not_found
+name:triethanolamine,,,,not_found
+name:vinyl acetate,,,,not_found
+name:vitamin a,,,,not_found
+name:vitamin a palmitate,,,,not_found

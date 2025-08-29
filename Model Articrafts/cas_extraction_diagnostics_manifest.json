@@ -1,0 +1,9 @@
+{
+  "distinct_raw_tokens": 134,
+  "blank_tokens": 0,
+  "zero_tokens": 0,
+  "float_like_tokens": 0,
+  "regex_canonical_count": 0,
+  "digits_hyphen_canonical_count": 0,
+  "example_differences_saved": 0
+}

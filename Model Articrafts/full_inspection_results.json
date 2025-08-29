@@ -1,0 +1,585 @@
+{
+  "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/chemicals-in-cosmetics.csv": {
+    "rows": 112870,
+    "cols": 22,
+    "columns": [
+      {
+        "name": "CDPHId",
+        "dtype": "int64",
+        "n_missing": 0,
+        "n_unique": 36474
+      },
+      {
+        "name": "ProductName",
+        "dtype": "object",
+        "n_missing": 0,
+        "n_unique": 33267
+      },
+      {
+        "name": "CSFId",
+        "dtype": "float64",
+        "n_missing": 33683,
+        "n_unique": 57283
+      },
+      {
+        "name": "CSF",
+        "dtype": "object",
+        "n_missing": 34108,
+        "n_unique": 33894
+      },
+      {
+        "name": "CompanyId",
+        "dtype": "int64",
+        "n_missing": 0,
+        "n_unique": 630
+      },
+      {
+        "name": "CompanyName",
+        "dtype": "object",
+        "n_missing": 0,
+        "n_unique": 601
+      },
+      {
+        "name": "BrandName",
+        "dtype": "object",
+        "n_missing": 223,
+        "n_unique": 2682
+      },
+      {
+        "name": "PrimaryCategoryId",
+        "dtype": "int64",
+        "n_missing": 0,
+        "n_unique": 13
+      },
+      {
+        "name": "PrimaryCategory",
+        "dtype": "object",
+        "n_missing": 0,
+        "n_unique": 13
+      },
+      {
+        "name": "SubCategoryId",
+        "dtype": "int64",
+        "n_missing": 0,
+        "n_unique": 92
+      },
+      {
+        "name": "SubCategory",
+        "dtype": "object",
+        "n_missing": 0,
+        "n_unique": 89
+      },
+      {
+        "name": "CasId",
+        "dtype": "int64",
+        "n_missing": 0,
+        "n_unique": 134
+      },
+      {
+        "name": "CasNumber",
+        "dtype": "object",
+        "n_missing": 6289,
+        "n_unique": 125
+      },
+      {
+        "name": "ChemicalId",
+        "dtype": "int64",
+        "n_missing": 0,
+        "n_unique": 57179
+      },
+      {
+        "name": "ChemicalName",
+        "dtype": "object",
+        "n_missing": 0,
+        "n_unique": 123
+      },
+      {
+        "name": "InitialDateReported",
+        "dtype": "object",
+        "n_missing": 0,
+        "n_unique": 2204
+      },
+      {
+        "name": "MostRecentDateReported",
+        "dtype": "object",
+        "n_missing": 0,
+        "n_unique": 2106
+      },
+      {
+        "name": "DiscontinuedDate",
+        "dtype": "object",
+        "n_missing": 99964,
+        "n_unique": 986
+      },
+      {
+        "name": "ChemicalCreatedAt",
+        "dtype": "object",
+        "n_missing": 0,
+        "n_unique": 2249
+      },
+      {
+        "name": "ChemicalUpdatedAt",
+        "dtype": "object",
+        "n_missing": 0,
+        "n_unique": 2255
+      },
+      {
+        "name": "ChemicalDateRemoved",
+        "dtype": "object",
+        "n_missing": 109949,
+        "n_unique": 514
+      },
+      {
+        "name": "ChemicalCount",
+        "dtype": "int64",
+        "n_missing": 0,
+        "n_unique": 10
+      }
+    ],
+    "duplicate_rows_by_key": 112736,
+    "has_cas": true,
+    "has_pubchem_cid": false,
+    "has_smiles": false,
+    "has_inchi": false,
+    "label_candidates": []
+  },
+  "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/chemicals-in-cosmetics-data-dictionary.xlsx": {
+    "rows": 24,
+    "cols": 4,
+    "columns": [
+      {
+        "name": "COLUMN NAME",
+        "dtype": "object",
+        "n_missing": 1,
+        "n_unique": 23
+      },
+      {
+        "name": "FORMAT",
+        "dtype": "object",
+        "n_missing": 2,
+        "n_unique": 3
+      },
+      {
+        "name": "DEFINITION",
+        "dtype": "object",
+        "n_missing": 1,
+        "n_unique": 23
+      },
+      {
+        "name": "_sheet_name_",
+        "dtype": "object",
+        "n_missing": 0,
+        "n_unique": 1
+      }
+    ],
+    "duplicate_rows_by_allcols": 0,
+    "has_cas": false,
+    "has_pubchem_cid": false,
+    "has_smiles": false,
+    "has_inchi": false,
+    "label_candidates": []
+  },
+  "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/proposition65_clean.csv": {
+    "rows": 1038,
+    "cols": 6,
+    "columns": [
+      {
+        "name": "Chemical",
+        "dtype": "object",
+        "n_missing": 23,
+        "n_unique": 947
+      },
+      {
+        "name": "Type of Toxicity",
+        "dtype": "object",
+        "n_missing": 54,
+        "n_unique": 25
+      },
+      {
+        "name": "Listing Mechanism",
+        "dtype": "object",
+        "n_missing": 54,
+        "n_unique": 10
+      },
+      {
+        "name": "CAS No.",
+        "dtype": "object",
+        "n_missing": 55,
+        "n_unique": 795
+      },
+      {
+        "name": "Date Listed",
+        "dtype": "object",
+        "n_missing": 54,
+        "n_unique": 181
+      },
+      {
+        "name": "NSRL or MADL (\u00b5g/day)a",
+        "dtype": "object",
+        "n_missing": 703,
+        "n_unique": 164
+      }
+    ],
+    "duplicate_rows_by_key": 242,
+    "has_cas": true,
+    "has_pubchem_cid": false,
+    "has_smiles": false,
+    "has_inchi": false,
+    "label_candidates": [
+      "Type of Toxicity"
+    ]
+  },
+  "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/List of Classifications \u2013 IARC Monographs on the Identification of Carcinogenic Hazards to Humans.csv": {
+    "rows": 1121,
+    "cols": 7,
+    "columns": [
+      {
+        "name": "CAS No.",
+        "dtype": "object",
+        "n_missing": 217,
+        "n_unique": 880
+      },
+      {
+        "name": "Agent",
+        "dtype": "object",
+        "n_missing": 0,
+        "n_unique": 1121
+      },
+      {
+        "name": "Group",
+        "dtype": "object",
+        "n_missing": 68,
+        "n_unique": 4
+      },
+      {
+        "name": "Volume",
+        "dtype": "object",
+        "n_missing": 58,
+        "n_unique": 299
+      },
+      {
+        "name": "Volume publication year",
+        "dtype": "object",
+        "n_missing": 60,
+        "n_unique": 35
+      },
+      {
+        "name": "Evaluation year",
+        "dtype": "float64",
+        "n_missing": 60,
+        "n_unique": 39
+      },
+      {
+        "name": "Additional information",
+        "dtype": "object",
+        "n_missing": 1028,
+        "n_unique": 34
+      }
+    ],
+    "duplicate_rows_by_key": 240,
+    "has_cas": true,
+    "has_pubchem_cid": false,
+    "has_smiles": false,
+    "has_inchi": false,
+    "label_candidates": []
+  },
+  "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Chemical List toxcast-2025-08-08.csv": {
+    "rows": 4746,
+    "cols": 14,
+    "columns": [
+      {
+        "name": "DTXSID",
+        "dtype": "object",
+        "n_missing": 0,
+        "n_unique": 4746
+      },
+      {
+        "name": "PREFERRED NAME",
+        "dtype": "object",
+        "n_missing": 0,
+        "n_unique": 4746
+      },
+      {
+        "name": "CASRN",
+        "dtype": "object",
+        "n_missing": 0,
+        "n_unique": 4746
+      },
+      {
+        "name": "INCHIKEY",
+        "dtype": "object",
+        "n_missing": 216,
+        "n_unique": 4530
+      },
+      {
+        "name": "IUPAC NAME",
+        "dtype": "object",
+        "n_missing": 238,
+        "n_unique": 4506
+      },
+      {
+        "name": "SMILES",
+        "dtype": "object",
+        "n_missing": 173,
+        "n_unique": 4570
+      },
+      {
+        "name": "INCHI STRING",
+        "dtype": "object",
+        "n_missing": 214,
+        "n_unique": 4531
+      },
+      {
+        "name": "MOLECULAR FORMULA",
+        "dtype": "object",
+        "n_missing": 187,
+        "n_unique": 3177
+      },
+      {
+        "name": "AVERAGE MASS",
+        "dtype": "float64",
+        "n_missing": 193,
+        "n_unique": 3130
+      },
+      {
+        "name": "MONOISOTOPIC MASS",
+        "dtype": "object",
+        "n_missing": 0,
+        "n_unique": 3172
+      },
+      {
+        "name": "QC Level",
+        "dtype": "int64",
+        "n_missing": 0,
+        "n_unique": 2
+      },
+      {
+        "name": "# ToxCast Active",
+        "dtype": "object",
+        "n_missing": 0,
+        "n_unique": 2653
+      },
+      {
+        "name": "Total Assays",
+        "dtype": "float64",
+        "n_missing": 299,
+        "n_unique": 503
+      },
+      {
+        "name": "% ToxCast Active",
+        "dtype": "float64",
+        "n_missing": 299,
+        "n_unique": 73
+      }
+    ],
+    "duplicate_rows_by_key": 0,
+    "has_cas": true,
+    "has_pubchem_cid": false,
+    "has_smiles": true,
+    "has_inchi": true,
+    "label_candidates": []
+  },
+  "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/tox21.csv/tox21.csv": {
+    "rows": 7831,
+    "cols": 14,
+    "columns": [
+      {
+        "name": "NR-AR",
+        "dtype": "float64",
+        "n_missing": 566,
+        "n_unique": 2
+      },
+      {
+        "name": "NR-AR-LBD",
+        "dtype": "float64",
+        "n_missing": 1073,
+        "n_unique": 2
+      },
+      {
+        "name": "NR-AhR",
+        "dtype": "float64",
+        "n_missing": 1282,
+        "n_unique": 2
+      },
+      {
+        "name": "NR-Aromatase",
+        "dtype": "float64",
+        "n_missing": 2010,
+        "n_unique": 2
+      },
+      {
+        "name": "NR-ER",
+        "dtype": "float64",
+        "n_missing": 1638,
+        "n_unique": 2
+      },
+      {
+        "name": "NR-ER-LBD",
+        "dtype": "float64",
+        "n_missing": 876,
+        "n_unique": 2
+      },
+      {
+        "name": "NR-PPAR-gamma",
+        "dtype": "float64",
+        "n_missing": 1381,
+        "n_unique": 2
+      },
+      {
+        "name": "SR-ARE",
+        "dtype": "float64",
+        "n_missing": 1999,
+        "n_unique": 2
+      },
+      {
+        "name": "SR-ATAD5",
+        "dtype": "float64",
+        "n_missing": 759,
+        "n_unique": 2
+      },
+      {
+        "name": "SR-HSE",
+        "dtype": "float64",
+        "n_missing": 1364,
+        "n_unique": 2
+      },
+      {
+        "name": "SR-MMP",
+        "dtype": "float64",
+        "n_missing": 2021,
+        "n_unique": 2
+      },
+      {
+        "name": "SR-p53",
+        "dtype": "float64",
+        "n_missing": 1057,
+        "n_unique": 2
+      },
+      {
+        "name": "mol_id",
+        "dtype": "object",
+        "n_missing": 0,
+        "n_unique": 7831
+      },
+      {
+        "name": "smiles",
+        "dtype": "object",
+        "n_missing": 0,
+        "n_unique": 7831
+      }
+    ],
+    "duplicate_rows_by_key": 0,
+    "has_cas": false,
+    "has_pubchem_cid": false,
+    "has_smiles": true,
+    "has_inchi": false,
+    "label_candidates": []
+  },
+  "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/coslng/COSING_Ingredients-Fragrance Inventory_v2.csv": {
+    "rows": 30080,
+    "cols": 10,
+    "columns": [
+      {
+        "name": "COSING Ref No",
+        "dtype": "int64",
+        "n_missing": 0,
+        "n_unique": 30080
+      },
+      {
+        "name": "INCI name",
+        "dtype": "object",
+        "n_missing": 0,
+        "n_unique": 30080
+      },
+      {
+        "name": "INN name",
+        "dtype": "object",
+        "n_missing": 29561,
+        "n_unique": 488
+      },
+      {
+        "name": "Ph. Eur. Name",
+        "dtype": "object",
+        "n_missing": 29897,
+        "n_unique": 182
+      },
+      {
+        "name": "CAS No",
+        "dtype": "object",
+        "n_missing": 0,
+        "n_unique": 11119
+      },
+      {
+        "name": "EC No",
+        "dtype": "object",
+        "n_missing": 0,
+        "n_unique": 7591
+      },
+      {
+        "name": "Chem/IUPAC Name / Description",
+        "dtype": "object",
+        "n_missing": 471,
+        "n_unique": 29310
+      },
+      {
+        "name": "Restriction",
+        "dtype": "object",
+        "n_missing": 28112,
+        "n_unique": 895
+      },
+      {
+        "name": "Function",
+        "dtype": "object",
+        "n_missing": 216,
+        "n_unique": 2524
+      },
+      {
+        "name": "Update Date",
+        "dtype": "object",
+        "n_missing": 0,
+        "n_unique": 759
+      }
+    ],
+    "duplicate_rows_by_key": 18961,
+    "has_cas": true,
+    "has_pubchem_cid": false,
+    "has_smiles": false,
+    "has_inchi": false,
+    "label_candidates": []
+  },
+  "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/coslng/COSING_Annex_II_v2.xls": {
+    "error": "Workbook corruption: seen[2] == 4"
+  },
+  "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/coslng/COSING_Annex_III_v2.xls": {
+    "error": "Workbook corruption: seen[2] == 4"
+  },
+  "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/coslng/COSING_Annex_IV_v2.xls": {
+    "error": "Workbook corruption: seen[2] == 4"
+  },
+  "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/coslng/COSING_Annex_V_v2.xls": {
+    "error": "Workbook corruption: seen[2] == 4"
+  },
+  "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main": {
+    "reprotox_files_count": 18,
+    "sample_files": [
+      "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/schema.json",
+      "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/docker-compose.yml",
+      "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/.env.example",
+      "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/Reprotox.png",
+      "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/.gitignore",
+      "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/README.md",
+      "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/markdown/download.md",
+      "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/notebooks/venn.ipynb",
+      "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/notebooks/Drugs_tofaers.ipynb",
+      "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/notebooks/requirements.txt",
+      "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/notebooks/Serialization.ipynb",
+      "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/notebooks/DMT/drug_resources.tsv",
+      "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/notebooks/DMT/drug_central.ipynb",
+      "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/notebooks/DMT/faers.ipynb",
+      "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/notebooks/DMT/combined.ipynb",
+      "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/scripts/requirements.txt",
+      "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/scripts/ingestion.txt",
+      "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main/scripts/populate.py"
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "rows": 7831,
+  "cols": 14,
+  "columns": [
+    {
+      "name": "NR-AR",
+      "dtype": "float64",
+      "n_missing": 566,
+      "n_unique": 2
+    },
+    {
+      "name": "NR-AR-LBD",
+      "dtype": "float64",
+      "n_missing": 1073,
+      "n_unique": 2
+    },
+    {
+      "name": "NR-AhR",
+      "dtype": "float64",
+      "n_missing": 1282,
+      "n_unique": 2
+    },
+    {
+      "name": "NR-Aromatase",
+      "dtype": "float64",
+      "n_missing": 2010,
+      "n_unique": 2
+    },
+    {
+      "name": "NR-ER",
+      "dtype": "float64",
+      "n_missing": 1638,
+      "n_unique": 2
+    },
+    {
+      "name": "NR-ER-LBD",
+      "dtype": "float64",
+      "n_missing": 876,
+      "n_unique": 2
+    },
+    {
+      "name": "NR-PPAR-gamma",
+      "dtype": "float64",
+      "n_missing": 1381,
+      "n_unique": 2
+    },
+    {
+      "name": "SR-ARE",
+      "dtype": "float64",
+      "n_missing": 1999,
+      "n_unique": 2
+    },
+    {
+      "name": "SR-ATAD5",
+      "dtype": "float64",
+      "n_missing": 759,
+      "n_unique": 2
+    },
+    {
+      "name": "SR-HSE",
+      "dtype": "float64",
+      "n_missing": 1364,
+      "n_unique": 2
+    },
+    {
+      "name": "SR-MMP",
+      "dtype": "float64",
+      "n_missing": 2021,
+      "n_unique": 2
+    },
+    {
+      "name": "SR-p53",
+      "dtype": "float64",
+      "n_missing": 1057,
+      "n_unique": 2
+    },
+    {
+      "name": "mol_id",
+      "dtype": "object",
+      "n_missing": 0,
+      "n_unique": 7831
+    },
+    {
+      "name": "smiles",
+      "dtype": "object",
+      "n_missing": 0,
+      "n_unique": 7831
+    }
+  ],
+  "duplicate_rows_by_key": 0,
+  "has_cas": false,
+  "has_pubchem_cid": false,
+  "has_smiles": true,
+  "has_inchi": false,
+  "label_candidates": []
+}

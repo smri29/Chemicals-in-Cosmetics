@@ -1,0 +1,13 @@
+path,error,rows,cols,has_cas,has_pubchem_cid,has_smiles,has_inchi,label_candidates
+/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/chemicals-in-cosmetics.csv,,112870.0,22.0,True,False,False,False,
+/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/chemicals-in-cosmetics-data-dictionary.xlsx,,24.0,4.0,False,False,False,False,
+/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/proposition65_clean.csv,,1038.0,6.0,True,False,False,False,Type of Toxicity
+/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/List of Classifications – IARC Monographs on the Identification of Carcinogenic Hazards to Humans.csv,,1121.0,7.0,True,False,False,False,
+/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Chemical List toxcast-2025-08-08.csv,,4746.0,14.0,True,False,True,True,
+/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/tox21.csv/tox21.csv,,7831.0,14.0,False,False,True,False,
+/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/coslng/COSING_Ingredients-Fragrance Inventory_v2.csv,,30080.0,10.0,True,False,False,False,
+/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/coslng/COSING_Annex_II_v2.xls,Workbook corruption: seen[2] == 4,,,,,,,
+/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/coslng/COSING_Annex_III_v2.xls,Workbook corruption: seen[2] == 4,,,,,,,
+/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/coslng/COSING_Annex_IV_v2.xls,Workbook corruption: seen[2] == 4,,,,,,,
+/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/coslng/COSING_Annex_V_v2.xls,Workbook corruption: seen[2] == 4,,,,,,,
+/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/Reprotox-KG-main/Reprotox-KG-main,,,,,,,,

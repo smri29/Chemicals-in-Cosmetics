@@ -1,0 +1,124 @@
+id_type,id,cache_key_used,cache_query_key,cid,smiles,source
+name,"1,4-dioxane","name:1,4-dioxane","name:1,4-dioxane",31275.0,,pubchem_name
+name,"2,2-bis(bromomethyl)-1,3-propanediol","name:2,2-bis(bromomethyl)-1,3-propanediol","name:2,2-bis(bromomethyl)-1,3-propanediol",18692.0,,pubchem_name
+name,"2,4-hexadienal","name:2,4-hexadienal","name:2,4-hexadienal",637564.0,,pubchem_name
+name,2-propyleneacrolein,name:2-propyleneacrolein,name:2-propyleneacrolein,637564.0,,pubchem_name
+name,acetaldehyde,name:acetaldehyde,name:acetaldehyde,177,,pubchem_name
+name,"acetic acid, retinyl ester","name:acetic acid, retinyl ester","name:acetic acid, retinyl ester",638034.0,,pubchem_name
+name,acetylsalicylic acid,name:acetylsalicylic acid,name:acetylsalicylic acid,2244.0,,pubchem_name
+name,acrylamide,name:acrylamide,name:acrylamide,6579,,pubchem_name
+name,all-trans retinoic acid,name:all-trans retinoic acid,name:all-trans retinoic acid,444795.0,,pubchem_name
+name,"aloe vera, non-decolorized whole leaf extract","name:aloe vera, non-decolorized whole leaf extract","name:aloe vera, non-decolorized whole leaf extract",,,not_found
+name,"aloe vera, whole leaf extract","name:aloe vera, whole leaf extract","name:aloe vera, whole leaf extract",,,not_found
+name,arsenic (inorganic arsenic compounds),name:arsenic (inorganic arsenic compounds),name:arsenic (inorganic arsenic compounds),,,not_found
+name,arsenic (inorganic oxides),name:arsenic (inorganic oxides),name:arsenic (inorganic oxides),,,not_found
+name,aspirin,name:aspirin,name:aspirin,2244,,pubchem_name
+name,avobenzone,name:avobenzone,name:avobenzone,51040.0,,pubchem_name
+name,benz[a]anthracene,name:benz[a]anthracene,name:benz[a]anthracene,5954.0,,pubchem_name
+name,benzene,name:benzene,name:benzene,241.0,,pubchem_name
+name,benzo[a]pyrene,name:benzo[a]pyrene,name:benzo[a]pyrene,2336.0,,pubchem_name
+name,benzophenone,name:benzophenone,name:benzophenone,3102,,pubchem_name
+name,benzophenone-2,name:benzophenone-2,name:benzophenone-2,8571.0,,pubchem_name
+name,benzophenone-3,name:benzophenone-3,name:benzophenone-3,4632.0,,pubchem_name
+name,benzophenone-4,name:benzophenone-4,name:benzophenone-4,19988.0,,pubchem_name
+name,benzyl chloride,name:benzyl chloride,name:benzyl chloride,7503.0,,pubchem_name
+name,beta-myrcene,name:beta-myrcene,name:beta-myrcene,31253.0,,pubchem_name
+name,bisphenol a (bpa),name:bisphenol a (bpa),name:bisphenol a (bpa),6623.0,,pubchem_name
+name,butylated hydroxyanisole,name:butylated hydroxyanisole,name:butylated hydroxyanisole,,,not_found
+name,c.i. acid red 114,name:c.i. acid red 114,name:c.i. acid red 114,22960,,pubchem_name
+name,cadmium and cadmium compounds,name:cadmium and cadmium compounds,name:cadmium and cadmium compounds,,,not_found
+name,caffeic acid,name:caffeic acid,name:caffeic acid,689043.0,,pubchem_name
+name,caffeine,name:caffeine,name:caffeine,2519,,pubchem_name
+name,carbon black,name:carbon black,name:carbon black,5462310.0,,pubchem_name
+name,"carbon black (airborne, unbound particles of respirable size)","name:carbon black (airborne, unbound particles of respirable size)","name:carbon black (airborne, unbound particles of respirable size)",,,not_found
+name,carbon-black extracts,name:carbon-black extracts,name:carbon-black extracts,,,not_found
+name,chromium (hexavalent compounds),name:chromium (hexavalent compounds),name:chromium (hexavalent compounds),,,not_found
+name,coal tar,name:coal tar,name:coal tar,,,not_found
+name,coal tar extract,name:coal tar extract,name:coal tar extract,,,not_found
+name,coal tar solution,name:coal tar solution,name:coal tar solution,,,not_found
+name,coal tars,name:coal tars,name:coal tars,,,not_found
+name,cocamide,name:cocamide,name:cocamide,,,not_found
+name,cocamide dea,name:cocamide dea,name:cocamide dea,,,not_found
+name,cocamide diethanolamine,name:cocamide diethanolamine,name:cocamide diethanolamine,,,not_found
+name,cocamide diethanolamine (dea),name:cocamide diethanolamine (dea),name:cocamide diethanolamine (dea),,,not_found
+name,cocamide mea,name:cocamide mea,name:cocamide mea,,,not_found
+name,coffea arabica extract,name:coffea arabica extract,name:coffea arabica extract,,,not_found
+name,coffee,name:coffee,name:coffee,,,not_found
+name,coffee bean extract,name:coffee bean extract,name:coffee bean extract,,,not_found
+name,coffee extract,name:coffee extract,name:coffee extract,,,not_found
+name,cosmetic talc,name:cosmetic talc,name:cosmetic talc,26924.0,,pubchem_name
+name,di-n-butyl phthalate (dbp),name:di-n-butyl phthalate (dbp),name:di-n-butyl phthalate (dbp),,,not_found
+name,dichloroacetic acid,name:dichloroacetic acid,name:dichloroacetic acid,6597,,pubchem_name
+name,dichloromethane (methylene chloride),name:dichloromethane (methylene chloride),name:dichloromethane (methylene chloride),,,not_found
+name,diethanolamides of the fatty acids of coconut oil,name:diethanolamides of the fatty acids of coconut oil,name:diethanolamides of the fatty acids of coconut oil,,,not_found
+name,diethanolamine,name:diethanolamine,name:diethanolamine,8113,,pubchem_name
+name,distillates (coal tar),name:distillates (coal tar),name:distillates (coal tar),,,not_found
+name,estragole,name:estragole,name:estragole,8815,,pubchem_name
+name,ethanol in alcoholic beverages,name:ethanol in alcoholic beverages,name:ethanol in alcoholic beverages,702.0,,pubchem_name
+name,ethyl acrylate,name:ethyl acrylate,name:ethyl acrylate,8821,,pubchem_name
+name,ethylene glycol,name:ethylene glycol,name:ethylene glycol,174,,pubchem_name
+name,ethylene oxide,name:ethylene oxide,name:ethylene oxide,6354.0,,pubchem_name
+name,extract of coffee bean,name:extract of coffee bean,name:extract of coffee bean,,,not_found
+name,formaldehyde,name:formaldehyde,name:formaldehyde,712.0,,pubchem_name
+name,formaldehyde (gas),name:formaldehyde (gas),name:formaldehyde (gas),712.0,,pubchem_name
+name,formaldehyde solution,name:formaldehyde solution,name:formaldehyde solution,,,not_found
+name,genistein (purified),name:genistein (purified),name:genistein (purified),,,not_found
+name,ginkgo biloba extract,name:ginkgo biloba extract,name:ginkgo biloba extract,,,not_found
+name,goldenseal root powder,name:goldenseal root powder,name:goldenseal root powder,,,not_found
+name,hydrous magnesium silicate,name:hydrous magnesium silicate,name:hydrous magnesium silicate,26924,,pubchem_name
+name,isopropyl alcohol manufacture using strong acids,name:isopropyl alcohol manufacture using strong acids,name:isopropyl alcohol manufacture using strong acids,,,not_found
+name,lauramide dea,name:lauramide dea,name:lauramide dea,8430,,pubchem_name
+name,lauramide diethanolamine,name:lauramide diethanolamine,name:lauramide diethanolamine,8430,,pubchem_name
+name,lead,name:lead,name:lead,5352425,,pubchem_name
+name,lead acetate,name:lead acetate,name:lead acetate,,,not_found
+name,mercury and mercury compounds,name:mercury and mercury compounds,name:mercury and mercury compounds,,,not_found
+name,methanol,name:methanol,name:methanol,887,,pubchem_name
+name,methyl chloride,name:methyl chloride,name:methyl chloride,6327,,pubchem_name
+name,methylene glycol,name:methylene glycol,name:methylene glycol,79015,,pubchem_name
+name,methyleugenol,name:methyleugenol,name:methyleugenol,7127,,pubchem_name
+name,mica,name:mica,name:mica,131842327,,pubchem_name
+name,"mineral oils, untreated and mildly treated","name:mineral oils, untreated and mildly treated","name:mineral oils, untreated and mildly treated",,,not_found
+name,musk xylene,name:musk xylene,name:musk xylene,62329,,pubchem_name
+name,"n,n-dimethyl-p-toluidine","name:n,n-dimethyl-p-toluidine","name:n,n-dimethyl-p-toluidine",7471,,pubchem_name
+name,n-methylpyrrolidone,name:n-methylpyrrolidone,name:n-methylpyrrolidone,13387,,pubchem_name
+name,n-nitrosodiethanolamine,name:n-nitrosodiethanolamine,name:n-nitrosodiethanolamine,14223,,pubchem_name
+name,n-nitrosodimethylamine,name:n-nitrosodimethylamine,name:n-nitrosodimethylamine,6124,,pubchem_name
+name,nickel (metallic),name:nickel (metallic),name:nickel (metallic),,,not_found
+name,o-phenylenediamine and its salts,name:o-phenylenediamine and its salts,name:o-phenylenediamine and its salts,,,not_found
+name,o-phenylphenol,name:o-phenylphenol,name:o-phenylphenol,7017,,pubchem_name
+name,oil orange ss,name:oil orange ss,name:oil orange ss,,,not_found
+name,p-aminodiphenylamine,name:p-aminodiphenylamine,name:p-aminodiphenylamine,7564,,pubchem_name
+name,permethrin,name:permethrin,name:permethrin,40326,,pubchem_name
+name,phenacemide,name:phenacemide,name:phenacemide,4753,,pubchem_name
+name,phenacetin,name:phenacetin,name:phenacetin,4754,,pubchem_name
+name,polygeenan,name:polygeenan,name:polygeenan,,,not_found
+name,progesterone,name:progesterone,name:progesterone,5994,,pubchem_name
+name,propylene glycol mono-t-butyl ether,name:propylene glycol mono-t-butyl ether,name:propylene glycol mono-t-butyl ether,92629,,pubchem_name
+name,propylene oxide,name:propylene oxide,name:propylene oxide,6378,,pubchem_name
+name,pulegone,name:pulegone,name:pulegone,442495,,pubchem_name
+name,quartz,name:quartz,name:quartz,24261,,pubchem_name
+name,quinoline and its strong acid salts,name:quinoline and its strong acid salts,name:quinoline and its strong acid salts,,,not_found
+name,retinol,name:retinol,name:retinol,445354,,pubchem_name
+name,retinol palmitate,name:retinol palmitate,name:retinol palmitate,5280531,,pubchem_name
+name,"retinol,retinyl esters, when in daily dosages in excess of 10,000 iu, or 3,000 retinol equivalents","name:retinol,retinyl esters, when in daily dosages in excess of 10,000 iu, or 3,000 retinol equivalents","name:retinol,retinyl esters, when in daily dosages in excess of 10,000 iu, or 3,000 retinol equivalents",,,not_found
+name,retinyl acetate,name:retinyl acetate,name:retinyl acetate,638034,,pubchem_name
+name,retinyl palmitate,name:retinyl palmitate,name:retinyl palmitate,5280531,,pubchem_name
+name,safrole,name:safrole,name:safrole,5144,,pubchem_name
+name,selenium sulfide,name:selenium sulfide,name:selenium sulfide,24011,,pubchem_name
+name,"silica, crystalline (airborne particles of respirable size)","name:silica, crystalline (airborne particles of respirable size)","name:silica, crystalline (airborne particles of respirable size)",,,not_found
+name,sodium bromate,name:sodium bromate,name:sodium bromate,23668195,,pubchem_name
+name,spironolactone,name:spironolactone,name:spironolactone,5833,,pubchem_name
+name,styrene,name:styrene,name:styrene,7501,,pubchem_name
+name,talc,name:talc,name:talc,165411828,,pubchem_name
+name,talc (powder),name:talc (powder),name:talc (powder),165411828,,pubchem_name
+name,talc containing asbestiform fibers,name:talc containing asbestiform fibers,name:talc containing asbestiform fibers,,,not_found
+name,tea-lauryl sulfate,name:tea-lauryl sulfate,name:tea-lauryl sulfate,8777,,pubchem_name
+name,titanium dioxide,name:titanium dioxide,name:titanium dioxide,26042,,pubchem_name
+name,"titanium dioxide (airborne, unbound particles of respirable size)","name:titanium dioxide (airborne, unbound particles of respirable size)","name:titanium dioxide (airborne, unbound particles of respirable size)",,,not_found
+name,toluene,name:toluene,name:toluene,1140,,pubchem_name
+name,trade secret,name:trade secret,name:trade secret,,,not_found
+name,trichloroacetic acid,name:trichloroacetic acid,name:trichloroacetic acid,6421,,pubchem_name
+name,triethanolamine,name:triethanolamine,name:triethanolamine,7618,,pubchem_name
+name,vinyl acetate,name:vinyl acetate,name:vinyl acetate,7904,,pubchem_name
+name,vitamin a,name:vitamin a,name:vitamin a,445354,,pubchem_name
+name,vitamin a palmitate,name:vitamin a palmitate,name:vitamin a palmitate,5280531,,pubchem_name

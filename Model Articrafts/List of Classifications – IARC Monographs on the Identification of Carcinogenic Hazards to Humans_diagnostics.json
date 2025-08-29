@@ -1,0 +1,54 @@
+{
+  "rows": 1121,
+  "cols": 7,
+  "columns": [
+    {
+      "name": "CAS No.",
+      "dtype": "object",
+      "n_missing": 217,
+      "n_unique": 880
+    },
+    {
+      "name": "Agent",
+      "dtype": "object",
+      "n_missing": 0,
+      "n_unique": 1121
+    },
+    {
+      "name": "Group",
+      "dtype": "object",
+      "n_missing": 68,
+      "n_unique": 4
+    },
+    {
+      "name": "Volume",
+      "dtype": "object",
+      "n_missing": 58,
+      "n_unique": 299
+    },
+    {
+      "name": "Volume publication year",
+      "dtype": "object",
+      "n_missing": 60,
+      "n_unique": 35
+    },
+    {
+      "name": "Evaluation year",
+      "dtype": "float64",
+      "n_missing": 60,
+      "n_unique": 39
+    },
+    {
+      "name": "Additional information",
+      "dtype": "object",
+      "n_missing": 1028,
+      "n_unique": 34
+    }
+  ],
+  "duplicate_rows_by_key": 240,
+  "has_cas": true,
+  "has_pubchem_cid": false,
+  "has_smiles": false,
+  "has_inchi": false,
+  "label_candidates": []
+}

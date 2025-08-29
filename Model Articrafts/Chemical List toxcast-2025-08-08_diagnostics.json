@@ -1,0 +1,96 @@
+{
+  "rows": 4746,
+  "cols": 14,
+  "columns": [
+    {
+      "name": "DTXSID",
+      "dtype": "object",
+      "n_missing": 0,
+      "n_unique": 4746
+    },
+    {
+      "name": "PREFERRED NAME",
+      "dtype": "object",
+      "n_missing": 0,
+      "n_unique": 4746
+    },
+    {
+      "name": "CASRN",
+      "dtype": "object",
+      "n_missing": 0,
+      "n_unique": 4746
+    },
+    {
+      "name": "INCHIKEY",
+      "dtype": "object",
+      "n_missing": 216,
+      "n_unique": 4530
+    },
+    {
+      "name": "IUPAC NAME",
+      "dtype": "object",
+      "n_missing": 238,
+      "n_unique": 4506
+    },
+    {
+      "name": "SMILES",
+      "dtype": "object",
+      "n_missing": 173,
+      "n_unique": 4570
+    },
+    {
+      "name": "INCHI STRING",
+      "dtype": "object",
+      "n_missing": 214,
+      "n_unique": 4531
+    },
+    {
+      "name": "MOLECULAR FORMULA",
+      "dtype": "object",
+      "n_missing": 187,
+      "n_unique": 3177
+    },
+    {
+      "name": "AVERAGE MASS",
+      "dtype": "float64",
+      "n_missing": 193,
+      "n_unique": 3130
+    },
+    {
+      "name": "MONOISOTOPIC MASS",
+      "dtype": "object",
+      "n_missing": 0,
+      "n_unique": 3172
+    },
+    {
+      "name": "QC Level",
+      "dtype": "int64",
+      "n_missing": 0,
+      "n_unique": 2
+    },
+    {
+      "name": "# ToxCast Active",
+      "dtype": "object",
+      "n_missing": 0,
+      "n_unique": 2653
+    },
+    {
+      "name": "Total Assays",
+      "dtype": "float64",
+      "n_missing": 299,
+      "n_unique": 503
+    },
+    {
+      "name": "% ToxCast Active",
+      "dtype": "float64",
+      "n_missing": 299,
+      "n_unique": 73
+    }
+  ],
+  "duplicate_rows_by_key": 0,
+  "has_cas": true,
+  "has_pubchem_cid": false,
+  "has_smiles": true,
+  "has_inchi": true,
+  "label_candidates": []
+}

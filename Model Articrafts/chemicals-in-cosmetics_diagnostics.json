@@ -1,0 +1,144 @@
+{
+  "rows": 112870,
+  "cols": 22,
+  "columns": [
+    {
+      "name": "CDPHId",
+      "dtype": "int64",
+      "n_missing": 0,
+      "n_unique": 36474
+    },
+    {
+      "name": "ProductName",
+      "dtype": "object",
+      "n_missing": 0,
+      "n_unique": 33267
+    },
+    {
+      "name": "CSFId",
+      "dtype": "float64",
+      "n_missing": 33683,
+      "n_unique": 57283
+    },
+    {
+      "name": "CSF",
+      "dtype": "object",
+      "n_missing": 34108,
+      "n_unique": 33894
+    },
+    {
+      "name": "CompanyId",
+      "dtype": "int64",
+      "n_missing": 0,
+      "n_unique": 630
+    },
+    {
+      "name": "CompanyName",
+      "dtype": "object",
+      "n_missing": 0,
+      "n_unique": 601
+    },
+    {
+      "name": "BrandName",
+      "dtype": "object",
+      "n_missing": 223,
+      "n_unique": 2682
+    },
+    {
+      "name": "PrimaryCategoryId",
+      "dtype": "int64",
+      "n_missing": 0,
+      "n_unique": 13
+    },
+    {
+      "name": "PrimaryCategory",
+      "dtype": "object",
+      "n_missing": 0,
+      "n_unique": 13
+    },
+    {
+      "name": "SubCategoryId",
+      "dtype": "int64",
+      "n_missing": 0,
+      "n_unique": 92
+    },
+    {
+      "name": "SubCategory",
+      "dtype": "object",
+      "n_missing": 0,
+      "n_unique": 89
+    },
+    {
+      "name": "CasId",
+      "dtype": "int64",
+      "n_missing": 0,
+      "n_unique": 134
+    },
+    {
+      "name": "CasNumber",
+      "dtype": "object",
+      "n_missing": 6289,
+      "n_unique": 125
+    },
+    {
+      "name": "ChemicalId",
+      "dtype": "int64",
+      "n_missing": 0,
+      "n_unique": 57179
+    },
+    {
+      "name": "ChemicalName",
+      "dtype": "object",
+      "n_missing": 0,
+      "n_unique": 123
+    },
+    {
+      "name": "InitialDateReported",
+      "dtype": "object",
+      "n_missing": 0,
+      "n_unique": 2204
+    },
+    {
+      "name": "MostRecentDateReported",
+      "dtype": "object",
+      "n_missing": 0,
+      "n_unique": 2106
+    },
+    {
+      "name": "DiscontinuedDate",
+      "dtype": "object",
+      "n_missing": 99964,
+      "n_unique": 986
+    },
+    {
+      "name": "ChemicalCreatedAt",
+      "dtype": "object",
+      "n_missing": 0,
+      "n_unique": 2249
+    },
+    {
+      "name": "ChemicalUpdatedAt",
+      "dtype": "object",
+      "n_missing": 0,
+      "n_unique": 2255
+    },
+    {
+      "name": "ChemicalDateRemoved",
+      "dtype": "object",
+      "n_missing": 109949,
+      "n_unique": 514
+    },
+    {
+      "name": "ChemicalCount",
+      "dtype": "int64",
+      "n_missing": 0,
+      "n_unique": 10
+    }
+  ],
+  "duplicate_rows_by_key": 112736,
+  "has_cas": true,
+  "has_pubchem_cid": false,
+  "has_smiles": false,
+  "has_inchi": false,
+  "label_candidates": []
+}

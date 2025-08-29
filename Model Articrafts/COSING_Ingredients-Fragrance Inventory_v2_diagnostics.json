@@ -1,0 +1,72 @@
+{
+  "rows": 30080,
+  "cols": 10,
+  "columns": [
+    {
+      "name": "COSING Ref No",
+      "dtype": "int64",
+      "n_missing": 0,
+      "n_unique": 30080
+    },
+    {
+      "name": "INCI name",
+      "dtype": "object",
+      "n_missing": 0,
+      "n_unique": 30080
+    },
+    {
+      "name": "INN name",
+      "dtype": "object",
+      "n_missing": 29561,
+      "n_unique": 488
+    },
+    {
+      "name": "Ph. Eur. Name",
+      "dtype": "object",
+      "n_missing": 29897,
+      "n_unique": 182
+    },
+    {
+      "name": "CAS No",
+      "dtype": "object",
+      "n_missing": 0,
+      "n_unique": 11119
+    },
+    {
+      "name": "EC No",
+      "dtype": "object",
+      "n_missing": 0,
+      "n_unique": 7591
+    },
+    {
+      "name": "Chem/IUPAC Name / Description",
+      "dtype": "object",
+      "n_missing": 471,
+      "n_unique": 29310
+    },
+    {
+      "name": "Restriction",
+      "dtype": "object",
+      "n_missing": 28112,
+      "n_unique": 895
+    },
+    {
+      "name": "Function",
+      "dtype": "object",
+      "n_missing": 216,
+      "n_unique": 2524
+    },
+    {
+      "name": "Update Date",
+      "dtype": "object",
+      "n_missing": 0,
+      "n_unique": 759
+    }
+  ],
+  "duplicate_rows_by_key": 18961,
+  "has_cas": true,
+  "has_pubchem_cid": false,
+  "has_smiles": false,
+  "has_inchi": false,
+  "label_candidates": []
+}

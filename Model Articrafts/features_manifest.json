@@ -1,0 +1,8 @@
+{
+  "featurizer": "rdkit",
+  "unique_structures_featurized": 77,
+  "main_rows_with_smiles": 112870,
+  "main_rows_total": 112870,
+  "features_file": "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/analysis_reports/features_mols.parquet",
+  "main_join_file": "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/analysis_reports/main_with_structures.parquet"
+}

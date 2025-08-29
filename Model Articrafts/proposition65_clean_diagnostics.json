@@ -1,0 +1,50 @@
+{
+  "rows": 1038,
+  "cols": 6,
+  "columns": [
+    {
+      "name": "Chemical",
+      "dtype": "object",
+      "n_missing": 23,
+      "n_unique": 947
+    },
+    {
+      "name": "Type of Toxicity",
+      "dtype": "object",
+      "n_missing": 54,
+      "n_unique": 25
+    },
+    {
+      "name": "Listing Mechanism",
+      "dtype": "object",
+      "n_missing": 54,
+      "n_unique": 10
+    },
+    {
+      "name": "CAS No.",
+      "dtype": "object",
+      "n_missing": 55,
+      "n_unique": 795
+    },
+    {
+      "name": "Date Listed",
+      "dtype": "object",
+      "n_missing": 54,
+      "n_unique": 181
+    },
+    {
+      "name": "NSRL or MADL (\u00b5g/day)a",
+      "dtype": "object",
+      "n_missing": 703,
+      "n_unique": 164
+    }
+  ],
+  "duplicate_rows_by_key": 242,
+  "has_cas": true,
+  "has_pubchem_cid": false,
+  "has_smiles": false,
+  "has_inchi": false,
+  "label_candidates": [
+    "Type of Toxicity"
+  ]
+}

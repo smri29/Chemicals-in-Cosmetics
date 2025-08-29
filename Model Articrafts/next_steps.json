@@ -1,0 +1,8 @@
+{
+  "notes": [
+    "If any files show missing SMILES/CID, run a name-to-CID/SMILES mapping using PubChemPy and cache results.",
+    "If label columns are not present, you will need to construct label endpoints from ToxCast/Tox21/IARC/Proposition65 using rules described in the pipeline document.",
+    "After SMILES are available, compute RDKit descriptors and fingerprints (ECFP) for modeling.",
+    "Perform Murcko scaffold splitting before any model selection to avoid leakage."
+  ]
+}

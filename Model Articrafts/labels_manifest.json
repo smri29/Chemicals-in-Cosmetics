@@ -1,0 +1,20 @@
+{
+  "rows_total": 112870,
+  "rows_with_smiles": 100151,
+  "unique_canonical_cas_in_main": 99,
+  "unique_canonical_cas_with_any_label": 868,
+  "CancerFlag_balance": {
+    "pos": 100180,
+    "neg": 12690,
+    "pos_rate": 0.887569770532471
+  },
+  "ReproFlag_balance": {
+    "pos": 188,
+    "neg": 112682,
+    "pos_rate": 0.001665633029148578
+  },
+  "outputs": {
+    "main_with_labels_parquet": "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/analysis_reports/main_with_labels.parquet",
+    "labels_table_csv": "/content/drive/MyDrive/ML Projects/Chemicals in Cosmetics/analysis_reports/labels_table.csv"
+  }
+}

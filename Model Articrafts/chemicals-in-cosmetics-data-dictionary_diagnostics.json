@@ -1,0 +1,36 @@
+{
+  "rows": 24,
+  "cols": 4,
+  "columns": [
+    {
+      "name": "COLUMN NAME",
+      "dtype": "object",
+      "n_missing": 1,
+      "n_unique": 23
+    },
+    {
+      "name": "FORMAT",
+      "dtype": "object",
+      "n_missing": 2,
+      "n_unique": 3
+    },
+    {
+      "name": "DEFINITION",
+      "dtype": "object",
+      "n_missing": 1,
+      "n_unique": 23
+    },
+    {
+      "name": "_sheet_name_",
+      "dtype": "object",
+      "n_missing": 0,
+      "n_unique": 1
+    }
+  ],
+  "duplicate_rows_by_allcols": 0,
+  "has_cas": false,
+  "has_pubchem_cid": false,
+  "has_smiles": false,
+  "has_inchi": false,
+  "label_candidates": []
+}
